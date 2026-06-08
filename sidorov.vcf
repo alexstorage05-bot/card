@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Alexander Sidorov
+N:Sidorov;Alexander;;;
+ORG:Forstlight / Perfomance
+TITLE:Director / Директор
+TEL;TYPE=WORK,VOICE:+79254952506
+TEL;TYPE=WORK,VOICE:+79111185882
+EMAIL;TYPE=WORK:forstexport@gmail.com
+EMAIL;TYPE=WORK:perfomance@forstlight.ru
+URL:https://perfomance.pro
+URL:https://forstlight.ru
+ADR;TYPE=WORK:;;Нахимовский пр. 24 п.2 эт.2 ст.257;Москва;;;Россия
+NOTE:Acoustic ceilings · Felt panels · Lighting · Partitions · Perfomance by Forstlight
+END:VCARD
